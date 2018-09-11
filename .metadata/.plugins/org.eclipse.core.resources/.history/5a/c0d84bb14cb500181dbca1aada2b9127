@@ -1,0 +1,11 @@
+
+public class TypesAndVariables {
+	public static void main(String[] args) {
+		//create a data 
+		int myVariable;
+		myVariable = 5;
+		
+		System.out.println(myVariable);
+	}
+
+}
